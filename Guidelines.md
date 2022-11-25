@@ -15,9 +15,9 @@ EXAMPLE:
 1. The entry for new submissions must be a recognized map of TRIA.
 2. Maps must not be a challenge or buff to an already existing map.
 3. No joke maps.
-4. The admins have the right to reject your submissions of varying factors.
+4. The admins have the right to reject your submissions based on varying factors.
 5. If a map is currently broken and is seeking fixes, please label the map as (BROKEN) before the Map Name, also **bold** formatted.
-5. Should you be unsure of a map being worthy being added, reach out to us in the official Discord.
+5. Should you be unsure of a map worthiness of being added, reach out to us in the official Discord.
 
 -- FORMAT GUIDELINES
 1. If there are multiple creators, please list your team name instead.
